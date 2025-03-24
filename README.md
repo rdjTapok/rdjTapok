@@ -1,26 +1,56 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/rdjTapok/" target="_blank">Egor</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">🇷🇺</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+there+👋+I'm+Egor;All-round+Developer;Open+to+collaborations!" alt="Typing SVG" />
+  </a>
+</p>
 
-- 🌍 I speak Russian (native), English (A2)
+---
 
-### Connect with me:
+### 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3)
+![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
+
+---
+
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rdjTapok&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rdjTapok&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdjTapok&theme=dark&hide_border=true&layout=compact&exclude_repo=repo1,repo2" />
+</p>
+
+---
+
+### 🚀 Latest Projects
+
+1. **[My first Web Project]([https://github.com/link](https://github.com/rdjTapok/Todo-JS-))** - Short description  
+   ![Stars](https://img.shields.io/github/stars/rdjTapok/Todo-JS-?style=flat-square)
+   ![Tech](https://img.shields.io/badge/-JavaScript%20%7C%20HTML%20%7C%20CSS-lightgrey)
+
+---
+
+### 📫 Let's Connect 
+
 <p align="left">
-<a href="https://t.me/rdjTapok" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="daniilshat" height="40" width="40" /></a>
+  <a href="https://discord.com/users/rdjtapok">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://t.me/rdjTapok">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-### Languages:
-<p align="left"> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/C%2B%2B.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/CSS3.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/HTML5.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/python.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.markdownguide.org/basic-syntax/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/c74242689872258d4882fe938a6257c2da710353/icons/markdown-white.svg" alt="python" width="60" height="40"/> </a> 
-</p>
+---
 
-### Tools:
-<p align="left"> 
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/PyCharm.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/VS-code.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/figma.svg" alt="figma" width="30" height="40"/> </a> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rdjTapok&style=flat-square&color=blue" alt="Profile views" />
 </p>
