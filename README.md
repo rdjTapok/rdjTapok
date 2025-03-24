@@ -29,7 +29,8 @@
 
 ### 🚀 Latest Projects
 
-1. **[My first Web Project]([https://github.com/link](https://github.com/rdjTapok/Todo-JS-))** - Short description  
+1. **[Todo list](https://github.com/rdjTapok/Todo-JS-)** - A modern todo list web application built with core web technologies. Stay organized and boost your productivity!
+   
    ![Stars](https://img.shields.io/github/stars/rdjTapok/Todo-JS-?style=flat-square)
    ![Tech](https://img.shields.io/badge/-JavaScript%20%7C%20HTML%20%7C%20CSS-lightgrey)
 
